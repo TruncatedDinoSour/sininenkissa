@@ -6,6 +6,8 @@ i am someone
 
 most of my repositories are mirrored on git.ari.lt, you can check them out [here](https://git.ari.lt/sininenkissa/)
 
+you can also check out my codeberg account [here](https://codeberg.org/sininenkissa), although i created it just to create a issue for forgejo.
+
 contact:
 
 - email: [sininenkissa@4d2.org](mailto:sininenkissa@4d2.org)
