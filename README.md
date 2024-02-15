@@ -12,6 +12,6 @@ contact:
 
 - email: [sininenkissa@4d2.org](mailto:sininenkissa@4d2.org)
 - matrix: [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt/)
-- xmpp: [sininenkissa@h2.gay](xmpp:sininenkissa@h2.gay)
+- xmpp: [sininenkissa@ari.lt](xmpp:sininenkissa@ari.lt)
 
 [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/)
