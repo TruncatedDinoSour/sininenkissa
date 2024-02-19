@@ -15,5 +15,3 @@ contact:
 - xmpp: [sininenkissa@ari.lt](xmpp:sininenkissa@ari.lt)
 
 [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/)
-
-this has been commited using git cli with ssh :)
